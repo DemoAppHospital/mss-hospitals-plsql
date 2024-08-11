@@ -84,18 +84,11 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- Springdoc OpenAPI UI -->
+		<!-- Swagger Unificado-->
 		<dependency>
 			<groupId>org.springdoc</groupId>
-			<artifactId>springdoc-openapi-ui</artifactId>
-			<version>1.8.0</version>
-		</dependency>
-
-		<!-- Springdoc OpenAPI WebMvc Core -->
-		<dependency>
-			<groupId>org.springdoc</groupId>
-			<artifactId>springdoc-openapi-webmvc-core</artifactId>
-			<version>1.8.0</version>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.6.0</version>
 		</dependency>
 
 	</dependencies>
